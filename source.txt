@@ -1,0 +1,2 @@
+http://feeds.lifehacker.jp/rss/lifehacker/index.xml
+http://blog.codebook-10000.com/rss
